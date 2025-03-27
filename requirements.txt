@@ -5,7 +5,7 @@ celery==5.3.5
 certifi==2021.5.30
 chardet==4.0.0
 click==7.1.2
-click-didyoumean==0.0.3
+click-didyoumean
 click-plugins==1.1.1
 click-repl==0.2.0
 Flask==2.0.1
