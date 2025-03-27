@@ -1,5 +1,5 @@
 amqp==5.0.6
-billiard==3.6.4.0
+billiard
 cached-property==1.5.2
 celery==5.3.5
 certifi==2021.5.30
