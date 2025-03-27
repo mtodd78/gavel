@@ -3,26 +3,26 @@
 #####################
 
 # can also be specified as the 'ADMIN_PASSWORD' environment variable
-admin_password: null
+admin_password: Ucomm0nHacks[]
 
 # can also be specified as the 'EMAIL_FROM' environment variable
 #
 # if you are setting DISABLE_EMAIL, you can set this setting to '_unused_' (or
 # anything else).
-email_from: null
+email_from: _unused_
 
 # can also be specified as the 'EMAIL_USER' environment variable
 #
 # this is the username that'll be used for SMTP authentication. if you are
 # setting DISABLE_EMAIL, you can set this setting to '_unused_' (or anything
 # else).
-email_user: null
+email_user: _unused_
 
 # can also be specified as the 'EMAIL_PASSWORD' environment variable
 #
 # if you are setting DISABLE_EMAIL, you can set this setting to '_unused_' (or
 # anything else).
-email_password: null
+email_password: _unused_
 
 # can also be specified as the 'SECRET_KEY' environment variable
 #
